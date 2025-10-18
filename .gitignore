@@ -1,0 +1,9 @@
+# Fichiers compilés
+bin/
+obj/
+
+# Fichiers de configuration locaux
+*.user
+*.suo
+*.vs/
+*.vscode/
